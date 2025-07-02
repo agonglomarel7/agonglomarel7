@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 ### 👋 Hi, I'm Marel<br><br>🎓 Master's student in **Software Engineering & AI**  <br>💡 Passionate about **Data Science**, **ML**, and **DevOps**  <br>🔍 Looking for a **12–24 month apprenticeship** in **Data, AI, or Cloud**, starting **Sept. 2025**  <br>📍 Mobile across France
 
@@ -21,3 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=agonglomarel7&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
