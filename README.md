@@ -1,5 +1,8 @@
 # 💫 About Me:
-# 👋 Hello, I'm Marel<br><br>🎓 I'm currently a Master's student in **Software Engineering and Artificial Intelligence**  <br>🚀 I'm passionate about **Data Science, Machine Learning, DevOps**, and **Cloud Engineering**  <br>🔍 I'm actively looking for a **12–24 month apprenticeship** in **Data, AI, or DevOps**, starting **September 2025**  <br>🌍 I'm open to relocation across France 
+# 👋 Hello, I'm Marel<br><br>🎓 I'm currently a Master's student in ***Software Engineering and Artificial Intelligence***  <br>🚀 I'm passionate about **Data Science, Machine Learning, DevOps**, and **Cloud Engineering**  <br>🔍 I'm actively looking for a **12–24 month apprenticeship** in **Data, AI, or DevOps**, starting **September 2025**  <br>🌍 I'm open to relocation across France 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌐 Socials:
@@ -11,12 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=agonglomarel7&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=agonglomarel7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agonglomarel7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=agonglomarel7&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=agonglomarel7&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
