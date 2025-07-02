@@ -1,9 +1,9 @@
-<div align="center">
 # 💫 About Me:
-### 👋 Hi, I'm Marel<br><br>🎓 Master's student in **Software Engineering & AI**  <br>💡 Passionate about **Data Science**, **ML**, and **DevOps**  <br>🔍 Looking for a **12–24 month apprenticeship** in **Data, AI, or Cloud**, starting **Sept. 2025**  <br>📍 Mobile across France
+## 👋 Hi, I'm Marel<br><br>🎓 Master's student in **Software Engineering & AI**  <br>💡 Passionate about **Data Science**, **ML**, and **DevOps**  <br>🔍 Looking for a **12–24 month apprenticeship** in **Data, AI, or Cloud**, starting **Sept. 2025**  <br>📍 Mobile across France
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geovith_agonglo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agonglomarel/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/geovith_agonglo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agonglomarel@gmail.com) 
@@ -15,12 +15,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=agonglomarel7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agonglomarel7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=agonglomarel7&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=agonglomarel7&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agonglomarel7&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</div>
